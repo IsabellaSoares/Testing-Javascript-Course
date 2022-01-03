@@ -1,0 +1,8 @@
+{
+  "name": "testing-javascript-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IsabellaSoares/Testing-Javascript-Course.git",
+  "author": "IsabellaSoares <isabella.soares.28@gmail.com>",
+  "license": "MIT"
+}
